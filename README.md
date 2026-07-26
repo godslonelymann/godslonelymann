@@ -1,6 +1,6 @@
 # Hey, I’m Anurag 👋
 
-<p> <a href="mailto:anuragworks09@gmail.com"> <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="28" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/anuragrgaikwad"> <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="28" /> </a> &nbsp;&nbsp; <a href="https://anurag-portfolio-bice-omega.vercel.app/"> <img src="https://cdn.simpleicons.org/vercel" alt="Portfolio" width="28" /> </a> </p>
+[📧 Email](mailto:anuragworks09@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/anuragrgaikwad) • [🌐 Portfolio](https://anurag-portfolio-bice-omega.vercel.app/)
 
 I’m a 2026 AI & Data Science graduate focused on starting my career in Data Engineering.
 
