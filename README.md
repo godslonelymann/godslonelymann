@@ -1,6 +1,6 @@
 # Hey, I’m Anurag 👋
 
-[📧 Email](mailto:anuragworks09@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/anuragrgaikwad) • [🌐 Portfolio](https://anurag-portfolio-bice-omega.vercel.app/)
+[📧 Email](mailto:anuragworks09@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/anuragrgaikwad) • [🌐 Portfolio](https://anurag-portfolio-gules.vercel.app/)
 
 I’m a 2026 AI & Data Science graduate focused on starting my career in Data Engineering.
 
