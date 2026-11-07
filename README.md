@@ -4,7 +4,7 @@
 
 I’m a 2026 AI & Data Science graduate focused on starting my career in Data Engineering.
 
-I enjoy building batch and real-time data pipelines and turning raw data into clean, useful datasets.
+I build data pipelines, design databases, and develop APIs with Python, PostgreSQL, and AWS.
 
 > I’m currently looking for an opportunity where I can contribute to real Data Engineering projects, learn from an experienced team and grow as an engineer.
 
@@ -26,7 +26,7 @@ I enjoy building batch and real-time data pipelines and turning raw data into cl
 
 **Cloud and Storage**
 
-`AWS S3` `AWS Glue` `Amazon Athena` `PostgreSQL` `Parquet`
+`AWS S3` `PostgreSQL` `AWS EC2`
 
 **Development Tools**
 
